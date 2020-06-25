@@ -1,0 +1,43 @@
+﻿Build started 6/17/2020 3:00:05 PM.
+     1>Project "C:\Users\Alexandr\library\lpng1637\png.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\zlib\include" /IC:\Users\Alexandr\library\lpng1637 /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Release\"" /D PNG_BUILD_DLL /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"png.dir\Release\\" /Fd"png.dir\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt C:\Users\Alexandr\library\lpng1637\png.c C:\Users\Alexandr\library\lpng1637\pngerror.c C:\Users\Alexandr\library\lpng1637\pngget.c C:\Users\Alexandr\library\lpng1637\pngmem.c C:\Users\Alexandr\library\lpng1637\pngpread.c C:\Users\Alexandr\library\lpng1637\pngread.c C:\Users\Alexandr\library\lpng1637\pngrio.c C:\Users\Alexandr\library\lpng1637\pngrtran.c C:\Users\Alexandr\library\lpng1637\pngrutil.c C:\Users\Alexandr\library\lpng1637\pngset.c C:\Users\Alexandr\library\lpng1637\pngtrans.c C:\Users\Alexandr\library\lpng1637\pngwio.c C:\Users\Alexandr\library\lpng1637\pngwrite.c C:\Users\Alexandr\library\lpng1637\pngwtran.c C:\Users\Alexandr\library\lpng1637\pngwutil.c
+         png.c
+         pngerror.c
+         pngget.c
+         pngmem.c
+         pngpread.c
+         pngread.c
+         pngrio.c
+         pngrtran.c
+         pngrutil.c
+         pngset.c
+         pngtrans.c
+         pngwio.c
+         pngwrite.c
+         pngwtran.c
+         pngwutil.c
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alexandr\library\lpng1637\Release\libpng16.dll" /INCREMENTAL:NO /NOLOGO "C:\Program Files (x86)\zlib\lib\zlibd.lib" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/Alexandr/library/lpng1637/Release/libpng16.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alexandr/library/lpng1637/Release/libpng16.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /DLL png.dir\Release\png.obj
+         png.dir\Release\pngerror.obj
+         png.dir\Release\pngget.obj
+         png.dir\Release\pngmem.obj
+         png.dir\Release\pngpread.obj
+         png.dir\Release\pngread.obj
+         png.dir\Release\pngrio.obj
+         png.dir\Release\pngrtran.obj
+         png.dir\Release\pngrutil.obj
+         png.dir\Release\pngset.obj
+         png.dir\Release\pngtrans.obj
+         png.dir\Release\pngwio.obj
+         png.dir\Release\pngwrite.obj
+         png.dir\Release\pngwtran.obj
+         png.dir\Release\pngwutil.obj
+            Creating library C:/Users/Alexandr/library/lpng1637/Release/libpng16.lib and object C:/Users/Alexandr/library/lpng1637/Release/libpng16.exp
+         png.vcxproj -> C:\Users\Alexandr\library\lpng1637\Release\libpng16.dll
+     1>Done Building Project "C:\Users\Alexandr\library\lpng1637\png.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.26

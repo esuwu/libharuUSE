@@ -1,0 +1,42 @@
+﻿Build started 6/17/2020 3:00:05 PM.
+     1>Project "C:\Users\Alexandr\library\lpng1637\png_static.vcxproj" on node 4 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\zlib\include" /IC:\Users\Alexandr\library\lpng1637 /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"png_static.dir\Release\\" /Fd"png_static.dir\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt C:\Users\Alexandr\library\lpng1637\png.c C:\Users\Alexandr\library\lpng1637\pngerror.c C:\Users\Alexandr\library\lpng1637\pngget.c C:\Users\Alexandr\library\lpng1637\pngmem.c C:\Users\Alexandr\library\lpng1637\pngpread.c C:\Users\Alexandr\library\lpng1637\pngread.c C:\Users\Alexandr\library\lpng1637\pngrio.c C:\Users\Alexandr\library\lpng1637\pngrtran.c C:\Users\Alexandr\library\lpng1637\pngrutil.c C:\Users\Alexandr\library\lpng1637\pngset.c C:\Users\Alexandr\library\lpng1637\pngtrans.c C:\Users\Alexandr\library\lpng1637\pngwio.c C:\Users\Alexandr\library\lpng1637\pngwrite.c C:\Users\Alexandr\library\lpng1637\pngwtran.c C:\Users\Alexandr\library\lpng1637\pngwutil.c
+         png.c
+         pngerror.c
+         pngget.c
+         pngmem.c
+         pngpread.c
+         pngread.c
+         pngrio.c
+         pngrtran.c
+         pngrutil.c
+         pngset.c
+         pngtrans.c
+         pngwio.c
+         pngwrite.c
+         pngwtran.c
+         pngwutil.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Alexandr\library\lpng1637\Release\libpng16_static.lib" /NOLOGO  /machine:X86 png_static.dir\Release\png.obj
+         png_static.dir\Release\pngerror.obj
+         png_static.dir\Release\pngget.obj
+         png_static.dir\Release\pngmem.obj
+         png_static.dir\Release\pngpread.obj
+         png_static.dir\Release\pngread.obj
+         png_static.dir\Release\pngrio.obj
+         png_static.dir\Release\pngrtran.obj
+         png_static.dir\Release\pngrutil.obj
+         png_static.dir\Release\pngset.obj
+         png_static.dir\Release\pngtrans.obj
+         png_static.dir\Release\pngwio.obj
+         png_static.dir\Release\pngwrite.obj
+         png_static.dir\Release\pngwtran.obj
+         png_static.dir\Release\pngwutil.obj
+         png_static.vcxproj -> C:\Users\Alexandr\library\lpng1637\Release\libpng16_static.lib
+     1>Done Building Project "C:\Users\Alexandr\library\lpng1637\png_static.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.18

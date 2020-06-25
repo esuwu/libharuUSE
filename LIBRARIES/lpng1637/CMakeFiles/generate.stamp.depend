@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeASMInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/MSVC-ASM.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/SelectLibraryConfigurations.cmake
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/3.18.0-rc1/CMakeASMCompiler.cmake
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/3.18.0-rc1/CMakeCCompiler.cmake
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/3.18.0-rc1/CMakeRCCompiler.cmake
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/3.18.0-rc1/CMakeSystem.cmake
+C:/Users/Alexandr/library/lpng1637/CMakeLists.txt
+C:/Users/Alexandr/library/lpng1637/scripts/genchk.cmake.in
+C:/Users/Alexandr/library/lpng1637/scripts/genout.cmake.in
+C:/Users/Alexandr/library/lpng1637/scripts/gensrc.cmake.in
+C:/Users/Alexandr/library/lpng1637/scripts/pnglibconf.h.prebuilt
+C:/Users/Alexandr/library/lpng1637/scripts/test.cmake.in

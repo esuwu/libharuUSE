@@ -1,0 +1,14 @@
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/png-fix-itxt.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/pngtest.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/genfiles.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/png.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/png_static.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/pngvalid.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/pngunknown.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/pngstest.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/pngimage.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/pngfix.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/RUN_TESTS.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/INSTALL.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alexandr/library/lpng1637/CMakeFiles/ZERO_CHECK.dir

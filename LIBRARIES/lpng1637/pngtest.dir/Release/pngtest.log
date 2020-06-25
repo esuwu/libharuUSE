@@ -1,0 +1,13 @@
+﻿Build started 6/17/2020 3:00:10 PM.
+     1>Project "C:\Users\Alexandr\library\lpng1637\pngtest.vcxproj" on node 4 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\zlib\include" /IC:\Users\Alexandr\library\lpng1637 /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"pngtest.dir\Release\\" /Fd"pngtest.dir\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt C:\Users\Alexandr\library\lpng1637\pngtest.c
+         pngtest.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alexandr\library\lpng1637\Release\pngtest.exe" /INCREMENTAL:NO /NOLOGO Release\libpng16.lib "C:\Program Files (x86)\zlib\lib\zlibd.lib" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/Alexandr/library/lpng1637/Release/pngtest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alexandr/library/lpng1637/Release/pngtest.lib" /MACHINE:X86 /SAFESEH  /machine:X86 pngtest.dir\Release\pngtest.obj
+         pngtest.vcxproj -> C:\Users\Alexandr\library\lpng1637\Release\pngtest.exe
+     1>Done Building Project "C:\Users\Alexandr\library\lpng1637\pngtest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.95

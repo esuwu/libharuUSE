@@ -1,0 +1,44 @@
+﻿Build started 6/11/2020 1:49:03 PM.
+     1>Project "C:\Users\Alexandr\library\lpng1637\png_static.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Alexandr/library/lpng1637/CMakeLists.txt
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\zlib\include" /IC:\Users\Alexandr\library\lpng1637 /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"png_static.dir\Debug\\" /Fd"png_static.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt C:\Users\Alexandr\library\lpng1637\png.c C:\Users\Alexandr\library\lpng1637\pngerror.c C:\Users\Alexandr\library\lpng1637\pngget.c C:\Users\Alexandr\library\lpng1637\pngmem.c C:\Users\Alexandr\library\lpng1637\pngpread.c C:\Users\Alexandr\library\lpng1637\pngread.c C:\Users\Alexandr\library\lpng1637\pngrio.c C:\Users\Alexandr\library\lpng1637\pngrtran.c C:\Users\Alexandr\library\lpng1637\pngrutil.c C:\Users\Alexandr\library\lpng1637\pngset.c C:\Users\Alexandr\library\lpng1637\pngtrans.c C:\Users\Alexandr\library\lpng1637\pngwio.c C:\Users\Alexandr\library\lpng1637\pngwrite.c C:\Users\Alexandr\library\lpng1637\pngwtran.c C:\Users\Alexandr\library\lpng1637\pngwutil.c
+         png.c
+         pngerror.c
+         pngget.c
+         pngmem.c
+         pngpread.c
+         pngread.c
+         pngrio.c
+         pngrtran.c
+         pngrutil.c
+         pngset.c
+         pngtrans.c
+         pngwio.c
+         pngwrite.c
+         pngwtran.c
+         pngwutil.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Alexandr\library\lpng1637\Debug\libpng16_staticd.lib" /NOLOGO  /machine:X86 png_static.dir\Debug\png.obj
+         png_static.dir\Debug\pngerror.obj
+         png_static.dir\Debug\pngget.obj
+         png_static.dir\Debug\pngmem.obj
+         png_static.dir\Debug\pngpread.obj
+         png_static.dir\Debug\pngread.obj
+         png_static.dir\Debug\pngrio.obj
+         png_static.dir\Debug\pngrtran.obj
+         png_static.dir\Debug\pngrutil.obj
+         png_static.dir\Debug\pngset.obj
+         png_static.dir\Debug\pngtrans.obj
+         png_static.dir\Debug\pngwio.obj
+         png_static.dir\Debug\pngwrite.obj
+         png_static.dir\Debug\pngwtran.obj
+         png_static.dir\Debug\pngwutil.obj
+         png_static.vcxproj -> C:\Users\Alexandr\library\lpng1637\Debug\libpng16_staticd.lib
+     1>Done Building Project "C:\Users\Alexandr\library\lpng1637\png_static.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.63
