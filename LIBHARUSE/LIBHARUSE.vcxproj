@@ -68,8 +68,8 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>C:\Users\Alexandr\library\libharu\include;C:\Program Files (x86)\zlib;C:\Users\Alexandr\library\lpng1637;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Alexandr\library\libharu\src\Debug;C:\Users\Alexandr\library\lpng1637\Release;C:\Program Files (x86)\zlib\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(IncludePath)</IncludePath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
@@ -91,11 +91,12 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>C:\Users\Alexandr\Projects\libharuUSE\LIBRARIES\libharu\include;$(IncludePath)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>libhpdfd.lib;libhpdfsd.lib;libpng16.lib;zlibd.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>C:\Users\Alexandr\Projects\libharuUSE\LIBRARIES\libharu\src\Debug\libhpdfd.lib;C:\Users\Alexandr\Projects\libharuUSE\LIBRARIES\libharu\src\Debug\libhpdfsd.lib;C:\Users\Alexandr\Projects\libharuUSE\LIBRARIES\lpng1637\Release\libpng16.lib;C:\Users\Alexandr\Projects\libharuUSE\LIBRARIES\zlib\lib\zlibd.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
